@@ -2,7 +2,7 @@
  
 I'm a computational PhD student at the **Children's Cancer Research Institute (CCRI)** in Vienna, working in the **Taschner-Mandl group**.
  
-My research focuses on the transcriptional and epigenetic exploration of paediatric cancer — currently working on single-cell and single-nucleus multi-omics to understand neuroblastoma biology.
+My research focuses on the transcriptional and epigenetic exploration of paediatric cancer, currently working on single-cell and single-nucleus multi-omics to understand neuroblastoma biology.
  
 ---
  
