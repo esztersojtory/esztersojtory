@@ -26,5 +26,5 @@ My research focuses on the transcriptional and epigenetic exploration of paediat
 ## Affiliations
  
 🏥 [Children's Cancer Research Institute (CCRI)](https://www.ccri.at), Vienna  
-🔬 [Taschner-Mandl Group]([https://www.ccri.at/research/taschner-mandl/](https://ccri.at/research-group/sabine-taschner-mandl-group/))
+🔬 [Taschner-Mandl Group](https://ccri.at/research-group/sabine-taschner-mandl-group/)
  
